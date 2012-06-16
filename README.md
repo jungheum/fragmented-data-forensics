@@ -1,19 +1,37 @@
-#### Underscores
-this should have _emphasis_
-this_should_not
-_nor_should_this
+# frag_insight
 
-#### Autolinking
-a non-markdown link: http://github.com/blog
-this one is [a markdown link](http://github.com/blog)
-Email test: support@github.com
+frag_insight is a tool for fragmented data forensics.
 
-#### Commit links
-c4149e7bac80fcd1295060125670e78d3f15bf2e
-tekkub@c4149e7bac80fcd1295060125670e78d3f15bf2e
-mojombo/god@c4149e7bac80fcd1295060125670e78d3f15bf2e
+## Quick start
 
-#### Issue links
-issue #1
-tekkub#1
-mojombo/god#1
+Clone the git repo - `https://github.com/jungheum/fragmented-data-forensics.git` - or [download it](https://github.com/jungheum/fragmented-data-forensics/zipball/master)
+
+Execute frag_insight to create the users database
+<pre>
+rake db:migrate
+</pre>
+
+## Features
+
+#### [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/)
+* HTML5 ready. Use the new elements with confidence.
+* Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
+* Designed with progressive enhancement in mind.
+
+#### [Twitter Bootstrap](http://twitter.github.com/bootstrap/index.html)
+* Built for and by nerds
+* 12-column grid
+* Responsive design
+* Custom jQuery plugins
+* Cross-everything
+
+## License
+
+[DFRC@KU](https://github.com/jungheum/fragmented-data-forensics/blob/master/COPYING)
+
+## Feedback
+
+Please submit feedback via the frag_insight tracker: 
+http://github.com/jungheum/fragmented-data-forensics/issues
+
+Author: Jungheum Park [junghmi@gmail.com](junghmi@gmail.com)
