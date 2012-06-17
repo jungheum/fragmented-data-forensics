@@ -19,7 +19,7 @@ frag_insight  'target image'  'pagesize'  'output path'
 Examples of usage
 <pre>
 frag_insight  c:\\image1.dd   2048   c:\\output1
-frag_insight  c:\\image2.dd   4096   c:\\output2
+frag_insight  imageUnlloca    4096   outputPath
 </pre>
 
 ## Features
