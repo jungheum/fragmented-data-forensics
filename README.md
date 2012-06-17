@@ -26,7 +26,7 @@ frag_insight  c:\\image2.dd   4096   c:\\output2
 
 #### Target
 * Flash memory image (fragmented pages)
-* Unallocated area of filesystem
+* Unallocated area of file system
 
 
 #### Features
