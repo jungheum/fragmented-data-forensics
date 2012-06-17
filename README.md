@@ -13,7 +13,7 @@ Clone the git repo `https://github.com/jungheum/fragmented-data-forensics.git` o
 
 Execute `frag_insight` to analyze an image file
 <pre>
-frag_insight  <target image>  <pagesize>  <output path>
+frag_insight  'target image'  'pagesize'  'output path'
 </pre>
 
 Examples of usage
